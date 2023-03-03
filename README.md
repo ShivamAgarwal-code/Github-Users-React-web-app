@@ -11,7 +11,7 @@ Feel free to open issues for questions or improvements
 First, clone the repo
 
 ```
-$ git remote add origin https://github.com/Yassir4/react-github-api.git
+$ git remote add origin https://github.com/ShivamAgarwal-code/Github-Users-React-web-app.git
 ```
 
 Next, load all the dependencies  
